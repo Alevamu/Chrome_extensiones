@@ -1,0 +1,21 @@
+{
+"manifest_version": 2,
+"name": "Idea3",
+"description": "Accesso a WebSite!",
+"version": "1.0",
+"icons": {
+"128": "128.png"
+},
+"app": {
+"urls": [
+"http://www.ideatres.cl/"
+],
+"launch": {
+"web_url": "http://www.ideatres.cl/"
+}
+},
+"permissions": [
+"unlimitedStorage",
+"notifications"
+]
+}
